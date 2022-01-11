@@ -1,7 +1,7 @@
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
-    color: blue;
+    color: burlywood;
     background: white;
     font-size: 16px;
     margin: 0;
@@ -13,11 +13,6 @@ body {
     width: 70%;
     padding: 1cm;
     text-align: left;
-<<<<<<< HEAD
-    border: 5px solid blueviolet;
-=======
-    border: 50px solid blueviolet;
->>>>>>> cabecera
     margin: 0 auto;
 
 }
